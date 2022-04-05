@@ -6,7 +6,7 @@ class AboutApp {
       "Pizza Picante 113 Avon Way,\nPortishead BS20 6LT";
   static const String appWebsite = "www.pizzapicanteportishead.co.uk";
   static const String appEmail = "info@pizzapicanteportishead.co.uk";
-  static const String appPhone = "01275 460505";
+  static const String appPhone = "01275460505";
 
   static const String urlFacebook = 'https://facebook.com';
   static const String urlWhatsApp = 'https://whatsapp.com';
